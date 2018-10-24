@@ -2,21 +2,23 @@
 The Volume Synchronized Probability of Informed Trading, commonly known as VPIN, is a mathematical model used in financial markets for multiple purposes.
 
 ## Basic Info
-* Version - Written in Python 3.6.1
+* Version - Written in Python 2.7.1
 * Keywords
   * VPIN
   * Random control
   * Market micro-structure
    
 ## Prerequisite
-* Numpy
-* Pandas
-* Matplotlib
+* Numpy as np
+* Pandas as pd
+* Matplotlib as plt
 
 ## Usage
 ### Dataset
 * Data source: wind
 * Sampling time range: Jan 2015-Oct 2018
+### Correspondence
+Please do not hesitate to submit an issue or contact via email.
 
 ## Output
 * Correlation between VPIN gap versus tick price
@@ -35,3 +37,7 @@ For transactions in the sampling period, the entile volume is divided into 50 ba
 * Loop of aforementioned process generate a series of baskets.
 #### Implications
 From a visualized perspective, time series remained stationary. Meanwhile, CSI-300 normally fluctuate dramatically after enlargement of VPIN index.  
+
+## Review of code
+### VPIN.ipynb
+Please refer to the entire code project via this document, including sample outputs.
