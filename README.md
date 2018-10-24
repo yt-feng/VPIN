@@ -41,3 +41,5 @@ From a visualized perspective, time series remained stationary. Meanwhile, CSI-3
 ## Review of code
 ### VPIN.ipynb
 Please refer to the entire code project via this document, including sample outputs.
+### Sample Output
+![VPIN Time Series Sample](https://github.com/yt-feng/VPIN/blob/master/dataset/Series.png)
