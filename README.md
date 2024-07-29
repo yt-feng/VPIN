@@ -44,4 +44,5 @@ Please refer to the entire code project via this document, including sample outp
 ### Sample Output
 
 <img src="https://github.com/yt-feng/VPIN/blob/master/dataset/Series.png" width="50%" height="50%">
+![GitHub stars](https://img.shields.io/github/stars/yt-feng/VPIN?style=social)
 
