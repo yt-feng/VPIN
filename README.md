@@ -45,5 +45,3 @@ Please refer to the entire code project via this document, including sample outp
 
 <img src="https://github.com/yt-feng/VPIN/blob/master/dataset/Series.png" width="50%" height="50%">
 
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#yt-feng/VPIN&Date" frameBorder="0"></iframe>
